@@ -4,7 +4,7 @@
     "private": true,
     "scripts": {
       "start": "echo 'Please specify frontend or backend to start.'",
-      "start:frontend": "cd frontend && npm start",
+      "start:frontend": "cd frontend/my-app && npm start",
       "start:backend": "cd backend && npm start",
       "build:frontend": "cd frontend && npm run build", 
       "test:frontend": "cd frontend && npm test"
