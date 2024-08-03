@@ -1,0 +1,45 @@
+# Node.js
+node_modules/
+npm-debug.log
+package-lock.json
+yarn-error.log
+yarn-debug.log
+yarn.lock
+
+# Frontend (React TypeScript)
+frontend/node_modules/
+frontend/build/
+frontend/.env
+frontend/.env.local
+frontend/.env.development.local
+frontend/.env.test.local
+frontend/.env.production.local
+frontend/.cache/
+
+# Backend (Express Node)
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/.env.development.local
+backend/.env.test.local
+backend/.env.production.local
+backend/logs/ # If you have a logs directory for log files
+backend/tmp/  # If you have a temp directory for temporary files
+
+# Logs
+logs/
+*.log
+
+# IDEs and Editors
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+dist/
+*.tgz
