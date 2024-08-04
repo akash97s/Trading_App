@@ -38,9 +38,28 @@ run "npm start" to start server
 Output:
 
 Demo video link:
-Photos of app, dev console, network console, mongodb, postman and 
+https://drive.google.com/file/d/1ZI4NkX82viZKcKpPPM2H27XWEcnHwrfA/view?usp=sharing
 
 
+UI:
+![image](https://github.com/user-attachments/assets/f3346f45-d262-42a5-a69e-115930307c3c)
+
+Redux dev tools console: 
+![image](https://github.com/user-attachments/assets/22c2ca01-2df3-4223-b31a-b46e3b2c3178)
+
+![image](https://github.com/user-attachments/assets/d5228cd7-ebf8-4416-95bd-89b26771487b)
+
+Network console:
+![image](https://github.com/user-attachments/assets/9f954d78-f534-45eb-8a95-832bf5b7edab)
+
+MongoDB:
+![image](https://github.com/user-attachments/assets/1aee5422-63d0-4ca4-9abe-e5ab0aaa30b1)
+
+Postman:
+![image](https://github.com/user-attachments/assets/9c4b1026-cc67-4087-9321-011d8b00cd02)
+
+Backend server logs:
+![image](https://github.com/user-attachments/assets/0134c2fc-4e84-4e8d-bcd2-a38bb2d0006d)
 
 
 Improvements:
